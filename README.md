@@ -30,7 +30,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
-![Screenshot 2023-05-18 183016](https://github.com/ROHITJAIND/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/118707073/204e6651-f90d-4ace-9216-b2d78c4cc0a9)
+
+![4 polr](https://github.com/KRISHNARAJ-D/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119559695/6de39adf-ce39-48b4-8c71-19fa81d54289)
+
 
 
 ### Name: KRISHNARAJ D
